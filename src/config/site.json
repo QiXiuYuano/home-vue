@@ -5,12 +5,12 @@
     "icon": "fa fa-blog"
   },
   {
-    "name": "图床",
-    "url": "",
+    "name": "私人图床",
+    "url": "https://img.630226.xyz",
     "icon": "fa fa-image"
   },
   {
-    "name": "监测",
+    "name": "站点监测",
     "url": "https://status.630226.xyz",
     "icon": "fa fa-chart-line"
   }
